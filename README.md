@@ -22,19 +22,19 @@ Accessible only to system administrators, this interface provides powerful tools
 
 * Card Management:
 
- * Add new restaurant cards
+   * Add new restaurant cards
 
- * Delete existing cards
+   * Delete existing cards
 
- * Activate or deactivate a card
+   * Activate or deactivate a card
 
 * Balance Management:
 
- * Modify the balance of any card
+   * Modify the balance of any card
 
 * Provisional Card Generation:
 
- * Issue temporary cards in case of lost or damaged cards
+   * Issue temporary cards in case of lost or damaged cards
 
  
 ### 🧱 Technologies Used
