@@ -7,20 +7,20 @@ Mini Resto Shell is a Java-based desktop application designed to facilitate and 
 ## 🚀 Features
 
 ### 🎓 User Interface (Student)
-Authentication 
+* Authentication 
 
-Automatic Meal Ticket Generation including:
+* Automatic Meal Ticket Generation including:
 
-  *Student's full name and ID
+  * Student's full name and ID
 
-  *Meal type and price ( based on the current session)
+  * Meal type and price ( based on the current session)
 
-  *Remaining balance (sold) on the restaurant card
+  * Remaining balance (sold) on the restaurant card
 
 ### 🛠️ Admin Interface
 Accessible only to system administrators, this interface provides powerful tools to manage the entire meal system:
 
-Card Management:
+* Card Management:
 
  * Add new restaurant cards
 
@@ -28,11 +28,11 @@ Card Management:
 
  * Activate or deactivate a card
 
-Balance Management:
+* Balance Management:
 
  * Modify the balance of any card
 
-Provisional Card Generation:
+* Provisional Card Generation:
 
  * Issue temporary cards in case of lost or damaged cards
 
